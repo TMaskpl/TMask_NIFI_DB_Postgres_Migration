@@ -18,7 +18,7 @@ Następnie tworzymy strukturę JSON
 ![ColumnTypeToJson](https://user-images.githubusercontent.com/75216446/155878912-8941433e-f861-4284-98b6-91989900f91a.png)
 
 
-Tworzymy połączenie do bazy zapasowej i za pomocą skryptu w python tworzymy odpowiednie polecenie SQL.
+Tworzymy połączenie do bazy zapasowej i za pomocą [skryptu w python](https://github.com/TMaskpl/TMask_NIFI_DB_Postgres_Migration/blob/main/create_postgres_schema_and_tables_with_json.py) tworzymy odpowiednie polecenie SQL.
 
 ![finalSqlQuery](https://user-images.githubusercontent.com/75216446/155878950-40dd5ec9-cd03-4e29-98b9-0fb198e611a1.png)
 
