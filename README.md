@@ -18,3 +18,12 @@ Następnie tworzymy strukturę JSON
 ![ColumnTypeToJson](https://user-images.githubusercontent.com/75216446/155878912-8941433e-f861-4284-98b6-91989900f91a.png)
 
 
+Tworzymy połączenie do bazy zapasowej i za pomocą skryptu w python tworzymy odpowiednie polecenie SQL.
+
+![finalSqlQuery](https://user-images.githubusercontent.com/75216446/155878950-40dd5ec9-cd03-4e29-98b9-0fb198e611a1.png)
+
+
+Dodatkowo każda struktura tabeli zapisana jest w pliku JSON
+
+
+![JsonFiles](https://user-images.githubusercontent.com/75216446/155878966-ad8ce714-a42e-4582-9dbe-0eec93faa8d0.png)
