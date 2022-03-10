@@ -1,4 +1,4 @@
-# TMask_NIFI_DB_migration
+# TMask_NIFI_DB_migration - Open Source
 Migracja bazy Postgres wraz z wszystkimi schematami i tabelami, plus kopia w formacie JSON
 
 
